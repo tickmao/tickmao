@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/tickmao/count.svg" />
 </p> -->
 <h2>Hi 👋, I'm Tickmao</h2>
-<h4>A romantic geek and Product Designer,who is cooking products.</h4>
+<h4>A romantic geek and Product Designer who is insterested in cooking products.</h4>
 
 ### 🎧 Spotify Playing
 
