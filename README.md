@@ -2,7 +2,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/tickmao/count.svg" />
 </p> -->
-#### 👋 Hi!
+#### 👋 Hi
 I'm Tickmao, a romantic geek and product designer who is insterested in cooking products.🥗🐈
 
 #### 📬 How To Reach Me
