@@ -12,7 +12,7 @@
 
 <p><a href="https://www.twitter.com/tickmao"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=tickmao" alt="github-readme-twitter"></a></p>
 
-### 📬 How to reach me
+### 📬 How To Reach Me
 Blog @[Tickmao](https://blog.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/tcikamo)· Mail@[Tickmao](mailto:lyle.lypm@gmail.com)
 
 ### ✨ Latest Github Action
