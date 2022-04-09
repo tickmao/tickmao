@@ -2,10 +2,11 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/tickmao/count.svg" />
 </p> -->
-<h1 align="center">Hi 👋, I'm Tickmao</h1>
+<h2>Hi 👋, I'm Tickmao</h2>
+Product Designer，cooking products.
 
-![](https://raw.githubusercontent.com/tickmao/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/tickmao/github-stats-transparent/output/generated/languages.svg)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tickmao)](https://github.com/tickmao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tickmao=compact)](https://github.com/tickmao/github-readme-stats)
 
 ### Latest Tweets
 
@@ -17,6 +18,4 @@
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 
 ### 📫 How to reach me:
-:octocat: [Github@tickmao](https://github.com/tickmao)
-:email: [lyle.lypm@gmail.com](mailto:lyle.lypm@gmail.com)
-:bird:[twitter@tickmao](https://twitter.com/tickmao/)
+Blog @[Tickmao](https://blog.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/tcikamo)· Mail@[Tickmao](mailto:lyle.lypm@gmail.com)
