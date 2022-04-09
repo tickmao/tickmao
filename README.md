@@ -5,8 +5,8 @@
 <h2>Hi 👋, I'm Tickmao</h2>
 Product Designer，cooking products.
 
-![](https://github.com/tickmao/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/tickmao/github-stats/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/tickmao/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/tickmao/github-stats-transparent/output/generated/languages.svg)
 
 ### Latest Tweets
 
