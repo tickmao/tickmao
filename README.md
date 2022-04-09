@@ -10,8 +10,7 @@ Product Designer，cooking products.
 
 ### Latest Tweets
 
-<p><a href="https://www.twitter.com/itgoyo"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=tickmao)](https://github.com/gazf/github-readme-twitter"></a></p>
-
+<p><a href="https://www.twitter.com/tickmao"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=tickmao" alt="github-readme-twitter"></a></p>
 ### 🎧 Spotify Playing
 
 ![spotify-github-profile](/img/default.svg)
