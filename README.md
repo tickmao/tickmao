@@ -5,8 +5,8 @@
 <h2>Hi 👋, I'm Tickmao</h2>
 Product Designer，cooking products.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tickmao)](https://github.com/tickmao/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tickmao=compact)](https://github.com/tickmao/github-readme-stats)
+![](https://raw.githubusercontent.com/tickmao/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/tickmao/github-stats-transparent/output/generated/languages.svg)
 
 ### Latest Tweets
 
