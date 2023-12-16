@@ -2,7 +2,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/tickmao/count.svg" />
 </p> -->
-#### 👋 Hi
+#### 👋 Hi ![](https://komarev.com/ghpvc/?username=tickmao&color=f0dc6e)
 I'm Tickmao, a romantic geek and product designer who is interested in cooking products.🥗🐈
 
 #### 📬 How To Reach Me
