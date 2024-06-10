@@ -11,9 +11,9 @@ Blog @[Tickmao](https://blog.tickmao.com) · GitHub @[Tickmao](https://github.co
 
 #### 🏄 Popuplar
 
-1️⃣ [Novel](https://github.com/tickmao/Novel)： 小说阅读书籍源整理，主要整理App的开源书源，方便大家一键导入，之后只需要每次导入更新即可。
+1️⃣  [Novel](https://github.com/tickmao/Novel)： 小说阅读书籍源整理，主要整理App的开源书源，方便大家一键导入，之后只需要每次导入更新即可。
 
-2️⃣ [Rules](https://github.com/tickmao/Rules))：个人自用的一些QuantumultX、Shadowrocket的配置。
+2️⃣  [Rules](https://github.com/tickmao/Rules)：个人自用的一些QuantumultX、Shadowrocket的配置。
 
 #### ✨ Latest GitHub activity
 ![](https://raw.githubusercontent.com/tickmao/github-stats-transparent/output/generated/overview.svg)
