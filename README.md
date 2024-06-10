@@ -7,7 +7,7 @@
 I'm Tickmao, a romantic geek and product designer who is interested in cooking products.🥗🐈
 
 #### 📬 How To Reach Me
-Blog @[Tickmao](https://blog.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/tickmao) · Mail@[Tickmao](mailto:lyle.lypm@gmail.com)· TG@[Tickmao](https://t.me/mwkds)
+Blog @[Tickmao](https://blog.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/tickmao) · Mail@[Tickmao](mailto:lyle.lypm@gmail.com) · TG@[Tickmao](https://t.me/mwkds)
 
 #### 🏆 Awards
 
