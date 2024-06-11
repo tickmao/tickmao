@@ -13,7 +13,7 @@ Blog @[Tickmao](https://blog.tickmao.com) · GitHub @[Tickmao](https://github.co
 
 🥇  [Novel](https://github.com/tickmao/Novel)： 小说阅读书籍源整理，主要整理App的开源书源，方便大家一键导入，之后只需要更新即可.
 
-🥈  [Rules](https://github.com/tickmao/Rules)：个人自用的一些QuantumultX、Clash、Shadowrocket的配置.
+🥈  [Rules](https://github.com/tickmao/Rules)：个人自用的一些QuantumultX、Surge、Loon、Clash、Shadowrocket的配置文件.
 
 #### ✨ Latest GitHub activity
 ![](https://raw.githubusercontent.com/tickmao/github-stats-transparent/output/generated/overview.svg)
