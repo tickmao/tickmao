@@ -17,4 +17,4 @@ Blog @[Tickmao](https://blog.tickmao.com) · GitHub @[Tickmao](https://github.co
 
 #### ✨ Latest GitHub activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tickmao&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tickmao&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tickmao&layout=donut)](https://github.com/tickmao/github-readme-stats)
