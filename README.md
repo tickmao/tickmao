@@ -17,4 +17,4 @@ Blog @[Tickmao](https://blog.tickmao.com) · GitHub @[Tickmao](https://github.co
 
 #### ✨ Latest GitHub activity
 ![Stats](https://github-readme-stats.vercel.app/api?username=tickmao&theme=transparent&timestamp=20241223)
-![](https://raw.githubusercontent.com/tickmao/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/tickmao/github-stats-transparent/output/generated/languages.svg?v=20241223)
