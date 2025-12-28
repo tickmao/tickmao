@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=tickmao&color=f0dc6e&style=flat-square" alt="Visitor Count" />
 
-<h2 align="center">Hi, I'm Tickmao 👋</h2>
+<h3 align="center">Hi, I'm Tickmao 👋</h3>
 
 <p>
   <strong>Product Designer</strong> 🎨 · <strong>Romantic Geek</strong> 💻
