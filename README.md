@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <img src="https://komarev.com/ghpvc/?username=tickmao&color=f0dc6e&style=flat-square" alt="Visitor Count" />
 
