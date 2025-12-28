@@ -16,5 +16,7 @@ Blog @[Tickmao](https://blog.tickmao.com) · GitHub @[Tickmao](https://github.co
 🥈  [Rules](https://github.com/tickmao/Rules)：个人自用的一些QuantumultX、Surge、Loon、Clash、Shadowrocket的配置文件.
 
 #### ✨ Latest GitHub activity
-![Tickmao's Status](https://github-readme-stats-six-seven.vercel.app/api?username=tickmao&show_icons=true&count_private=true&theme=default" height="200px)
-![Top Language](https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=S4IL21&layout=compact&langs_count=8&theme=default" height="200px)
+<div align="center">
+  <img src="https://github-readme-stats-six-seven.vercel.app/api?username=tickmao&show_icons=true&count_private=true&theme=default" height="180" alt="Tickmao's Status" />
+  <img src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=S4IL21&layout=compact&langs_count=8&theme=default" height="180" alt="Top Language" />
+</div>
