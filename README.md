@@ -21,8 +21,6 @@
 
 </div>
 
-<br>
-
 ### 🧩 Featured Works
 
 * **🥇 [Novel](https://github.com/tickmao/Novel)**
@@ -30,8 +28,6 @@
 
 * **🥈 [Rules](https://github.com/tickmao/Rules)**
     <br> 🛠️ 个人自用的网络配置文件集合 (QuantumultX, Surge, Loon, Clash, Shadowrocket)。
-
-<br>
 
 ### 📊 Github Stats
 
