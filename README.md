@@ -26,7 +26,7 @@
     <br> 📚 小说阅读书籍源整理。开源书源集合，一键导入，持续更新。
 
 * **🥈 [Rules](https://github.com/tickmao/Rules)**
-    <br> 🛠️ 个人自用的网络配置文件集合 (QuantumultX, Surge, Loon, Clash, Shadowrocket)。
+    <br> 🍿 个人自用的网络配置文件集合 (QuantumultX, Surge, Loon, Clash, Shadowrocket)。
 
 ### 📊 Github Stats
 
