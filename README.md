@@ -8,8 +8,7 @@
   <strong>Product Designer</strong> 🎨 · <strong>Romantic Geek</strong> 💻
 </p>
 <p>
-  I enjoy <strong>crafting exquisite digital products</strong>,<br>
-  blending technical logic with romantic aesthetics. ✨
+  I enjoy <strong>crafting exquisite digital products</strong>, blending technical logic with romantic aesthetics. ✨
 </p>
 
 <p>
