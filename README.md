@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=tickmao&color=f0dc6e&style=flat-square" alt="Visitor Count" />
 
-<h1 align="center">Hi, I'm Tickmao 👋</h1>
+<h2 align="center">Hi, I'm Tickmao 👋</h2>
 
 <p>
   <strong>Product Designer</strong> 🎨 · <strong>Romantic Geek</strong> 💻
@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <a href="https://blog.tickmao.com"><img src="https://img.shields.io/badge/Blog-Tickmao-black?style=flat-square&logo=ghost" alt="Blog"></a>
+  <a href="https://tickmao.com"><img src="https://img.shields.io/badge/Blog-Tickmao-black?style=flat-square&logo=ghost" alt="Blog"></a>
   <a href="https://twitter.com/tickmao"><img src="https://img.shields.io/badge/Twitter-@Tickmao-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:lyle.lypm@gmail.com"><img src="https://img.shields.io/badge/Email-Hi!-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://t.me/mwkds"><img src="https://img.shields.io/badge/Telegram-@mwkds-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
