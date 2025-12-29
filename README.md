@@ -23,6 +23,5 @@ I enjoy **crafting exquisite digital products**, blending technical logic with r
 
 <div align="left">
   <img src="https://github-readme-stats-six-seven.vercel.app/api?username=tickmao&show_icons=true&count_private=true&theme=default" height="165" alt="Tickmao's Status" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=tickmao&layout=compact&langs_count=8&theme=default" height="165" alt="Top Language" />
 </div>
