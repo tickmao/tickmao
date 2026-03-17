@@ -1,15 +1,21 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=tickmao&color=f0dc6e&style=flat-square)
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:101820,35:1D3557,70:3A506B,100:5BC0BE&text=OldJobobo&fontColor=F4F7F5&fontSize=56&desc=Omarchy%20Themes%20%7C%20Linux%20Desktop%20Tooling&descAlignY=68" alt="Tickmao profile banner" />
+</div>
+
+<div align="center">
+[![Blog](https://img.shields.io/badge/Blog-Tickmao-black?style=flat-square&logo=ghost)](https://blog.tickmao.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@Tickmao-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tickmao)
+[![Email](https://img.shields.io/badge/Email-Hi!-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lyle.lypm@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@mwkds-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mwkds)
+</div>
+
 ### Hi, I'm Tickmao 👋
 
 **Product Designer** 🎨 · **Romantic Geek** 💻
 
 I enjoy **crafting exquisite digital products**, blending technical logic with romantic aesthetics. ✨
-
-[![Blog](https://img.shields.io/badge/Blog-Tickmao-black?style=flat-square&logo=ghost)](https://blog.tickmao.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@Tickmao-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tickmao)
-[![Email](https://img.shields.io/badge/Email-Hi!-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lyle.lypm@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@mwkds-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mwkds)
 
 ### Featured Works
 
