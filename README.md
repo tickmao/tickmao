@@ -1,7 +1,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=tickmao&color=f0dc6e&style=flat-square)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:101820,35:1D3557,70:3A506B,100:5BC0BE&text=OldJobobo&fontColor=F4F7F5&fontSize=56&desc=Omarchy%20Themes%20%7C%20Linux%20Desktop%20Tooling&descAlignY=68"](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tickmao&animation=fadeIn&reversal=false&textBg=false&desc=Product%20Designer&descAlignY=60&fontAlignY=41) alt="Tickmao profile banner" />](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tickmao&animation=fadeIn&reversal=false&textBg=false&desc=Product%20Designer&descAlignY=60&fontAlignY=41)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tickmao&animation=fadeIn&reversal=false&textBg=false&desc=Product%20Designer&descAlignY=60&fontAlignY=41" alt="OldJobobo profile banner"/>
 </div>
 
 <div align="center">
