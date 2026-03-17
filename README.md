@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tickmao&animation=fadeIn&reversal=false&textBg=false&desc=Product%20Designer&descAlignY=60&fontAlignY=41](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Tickmao&fontAlignY=36&desc=Product%20Designer&descAlignY=54&animation=fadeIn)" alt="Tickmao profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Tickmao&fontAlignY=36&desc=Product%20Designer&descAlignY=54&animation=fadeIn" alt="Tickmao profile banner"/>
 </div>
 
 <div align="center">
