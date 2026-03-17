@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Tickmao&fontAlignY=36&desc=Product%20Designer&descAlignY=54&animation=fadeIn" alt="Tickmao profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Tickmao&fontAlignY=36&desc=Product%20Designer&descAlignY=56&animation=fadeIn" alt="Tickmao profile banner"/>
 </div>
 
 <div align="center">
