@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-[![Visitor Count](https://komarev.com/ghpvc/?username=tickmao&color=f0dc6e&style=flat-square)]
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=tickmao&color=f0dc6e&style=flat-square)](https://github.com/tickmao)
 [![Blog](https://img.shields.io/badge/Blog-Tickmao-black?style=flat-square&logo=ghost)](https://blog.tickmao.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@Tickmao-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tickmao)
 [![Email](https://img.shields.io/badge/Email-Hi!-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lyle.lypm@gmail.com)
