@@ -1,5 +1,11 @@
 
-<div align="center">
+### Hi, I'm Tickmao 👋
+
+**Product Designer** 🎨 · **Romantic Geek** 💻
+
+I enjoy **crafting exquisite digital products**, blending technical logic with romantic aesthetics. ✨
+
+<div align="left">
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=tickmao&color=f0dc6e&style=flat-square)](https://github.com/tickmao)
 [![Blog](https://img.shields.io/badge/Blog-Tickmao-black?style=flat-square&logo=ghost)](https://blog.tickmao.com)
@@ -8,13 +14,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@mwkds-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mwkds)
 
 </div>
-
-### Hi, I'm Tickmao 👋
-
-**Product Designer** 🎨 · **Romantic Geek** 💻
-
-I enjoy **crafting exquisite digital products**, blending technical logic with romantic aesthetics. ✨
-
 ### Featured Works
 
 **🥇 [Novel](https://github.com/tickmao/Novel)**
